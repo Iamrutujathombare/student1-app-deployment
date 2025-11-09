@@ -90,7 +90,7 @@ git push origin main
    - ID: `deploy-key`
 
 Save it.
-![c](3.png)
+![d](3.png)
 ---
 
 ## 5. Configure Deployment Server (Tomcat Server)
@@ -147,7 +147,7 @@ scp target/*.war ubuntu@DEPLOYMENT_SERVER_PUBLIC_IP:/opt/tomcat/webapps/
 
 7. Build the job.
 
-![d](4.png)
+![e](4.png)
 
 ---
 
@@ -160,12 +160,12 @@ http://DEPLOYMENT_SERVER_PUBLIC_IP:8080/java-form-app
 
 You should now see your application live.
 
-![e](5.png)
+![f](5.png)
 
 ---
 
 ## ✅ Deployment Completed
 Your Java form project is now fully automated using Jenkins, Maven, and Tomcat.
 
-![f](6.png)
+![g](6.png)
 
