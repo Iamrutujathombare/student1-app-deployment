@@ -169,3 +169,8 @@ Your Java form project is now fully automated using Jenkins, Maven, and Tomcat.
 
 ![g](6.png)
 
+## 👨‍💻 Author
+**Rutuja Thombare**  
+🌐 [LinkedIn](https://www.linkedin.com/in/iamrutujathombare)  
+📧 rutujathombare7387@gmail.com  
+
